@@ -18,3 +18,6 @@ Exness: https://download.metatrader.com/cdn/web/exness.technologies.ltd/mt4/exne
 #### Kopitore
 https://github.com/kopitore/client/
 
+#### Line Notify
+https://notify-bot.line.me/en/
+
