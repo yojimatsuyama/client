@@ -26,7 +26,7 @@ https://notify-bot.line.me/en/
 Profile icon (Please Feel Free to use it for profile on notification page)
 
 Edge:<br>
-<img src="https://kopitore.com/asset/kopitore-icon-edge.jpg">
+<img width="30%" src="https://kopitore.com/asset/kopitore-icon-edge.jpg">
 
 Round:<br>
-<img src="https://kopitore.com/asset/kopitore-icon-round.png">
+<img width="30%" src="https://kopitore.com/asset/kopitore-icon-round.png">
