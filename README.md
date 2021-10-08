@@ -21,3 +21,12 @@ https://github.com/kopitore/client/
 #### Line Notify
 https://notify-bot.line.me/en/
 
+##### Asset
+
+Profile icon (Please Feel Free to use it for profile on notification page)
+
+Edge:<br>
+<img src="https://kopitore.com/asset/kopitore-icon-edge.jpg">
+
+Round:<br>
+<img src="https://kopitore.com/asset/kopitore-icon-round.png">
